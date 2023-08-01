@@ -1,0 +1,17 @@
+:root{
+    --primary-color: #F8E8A6;
+    --sacondary-color: #008035;
+}
+body{
+    background: var(--primary-color);
+}
+h1{
+    margin: 20px;
+}
+footer a {
+    color: var(--sacondary-color);
+}
+.navigation-links{
+    margin: 10px;
+    text-transform: capitalize;
+}

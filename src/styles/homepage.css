@@ -1,0 +1,14 @@
+:root{
+    --primary-color: #F8E8A6;
+    --sacondary-color: #008035;
+}
+body{
+    background: var(--primary-color);
+}
+footer a{
+    color: var(--sacondary-color);
+}
+a{
+    margin: 10px;
+    text-transform: capitalize;
+}
